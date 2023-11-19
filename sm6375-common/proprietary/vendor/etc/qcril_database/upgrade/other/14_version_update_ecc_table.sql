@@ -319,3 +319,8 @@ DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '222' AND NUMBER =
 DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '222' AND NUMBER = '110';
 DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '222' AND NUMBER = '999';
 DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '222' AND NUMBER = '08';
+
+/* hq-lijiazheng for HQ-319853 @2023.08.21 start*/
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('724','05','180','','');
+INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('724','05','185','','');
+/* hq-lijiazheng for HQ-319853 @2023.08.21 end*/

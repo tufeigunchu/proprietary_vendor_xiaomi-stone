@@ -227,3 +227,18 @@ INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','196','
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','197','','');
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','116000','','');
 INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('208','13','116117','','');
+
+/* hq-lijiazheng for HQ-311457 @2023.08.28 start*/
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','15','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','17','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','18','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','115','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','119','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','191','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','196','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','197','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','5555','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','116000','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','116111','','');
+INSERT INTO qcril_emergency_source_voice_mcc_mnc_table VALUES('647','00','116117','','');
+/* hq-lijiazheng for HQ-311457 @2023.08.28 end*/
